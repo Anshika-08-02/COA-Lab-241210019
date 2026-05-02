@@ -1,5 +1,11 @@
 # Experiment 1: Implementation of Adders using Logic Gates (Logisim)
 
+## Author
+Anshika Bharti
+241210019
+
+---
+
 ## Aim
 
 To design and simulate Half Adder and Full Adder circuits using basic logic gates and using only NAND gates in Logisim.
@@ -88,7 +94,11 @@ The outputs were verified and found to be correct.
 
 ## Screenshots
 
-(Add your circuit screenshots here)
+### Half Adder
+![ADDERS](adder.png)
+
+### Full Adder
+![Adders using NAND](adderusingNAND.png)
 
 ---
 
@@ -100,13 +110,7 @@ The outputs were verified and found to be correct.
 
 ---
 
-## Author
 
-Your Name
-Course / Subject Name
-College Name
-
----
 
 ## Note
 

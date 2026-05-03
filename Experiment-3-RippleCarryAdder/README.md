@@ -83,7 +83,9 @@ The 4-bit ripple carry adder was successfully designed and implemented in Logisi
 
 ## Screenshots
 
-(Add your circuit screenshots here)
+### Half Adder
+![4 bit Ripple Carry Addder](ripplecarryadder.png)
+
 
 ---
 

@@ -7,7 +7,6 @@ To design and simulate an 8×1 multiplexer using logic gates in Logisim.
 
 ## Author
 
-Your Name
 Anshika Bharti
 241210019
 

@@ -72,17 +72,6 @@ The 4-bit adder was successfully designed and simulated in Logisim. The circuit 
 
 ---
 
-## Files Included
-
-* 4bit_adder.circ → Implementation of 4-bit adder
-
----
-
-## Screenshots
-
-(Add your circuit screenshots here)
-
----
 
 ## Applications
 

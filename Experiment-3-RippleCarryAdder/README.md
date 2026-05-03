@@ -73,11 +73,6 @@ The outputs obtained from the circuit were verified for multiple input combinati
 
 The 4-bit ripple carry adder was successfully designed and implemented in Logisim. The circuit performed correct binary addition, and the results matched the expected outputs.
 
----
-
-## Files Included
-
-* 4bit_ripple_adder.circ → Implementation of 4-bit ripple carry adder
 
 ---
 

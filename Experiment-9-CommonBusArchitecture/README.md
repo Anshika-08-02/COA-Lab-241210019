@@ -84,7 +84,7 @@ The 4-bit common bus architecture was successfully designed and implemented in L
 Screenshots
 
 ### 4 bit Common Bus Architecture
-![4 bit Common Bus Architecture](cba.jpeg)
+![4 bit Common Bus Architecture](bus.jpeg)
 
 ---
 

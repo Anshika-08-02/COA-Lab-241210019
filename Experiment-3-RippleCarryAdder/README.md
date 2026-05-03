@@ -5,7 +5,6 @@
 To design and simulate a 4-bit ripple carry adder using Full Adders in Logisim.
 
 ## Author
-
 Anshika Bharti
 241210019
 

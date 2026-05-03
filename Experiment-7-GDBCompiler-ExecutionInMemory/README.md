@@ -112,9 +112,9 @@ The program execution was successfully analyzed using GDB. The memory locations 
 
 ### Output and Debugging
 
-![Output](output1.png)
-![Output](output2.png)
-![Output](output3.png)
+![Output](output1.jpeg)
+![Output](output2.jpeg)
+![Output](output3.jpeg)
 
 ---
 
